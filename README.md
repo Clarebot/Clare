@@ -16,6 +16,10 @@ Um bot brasileiro com vários comandos, com sistema de level, daily.
 
 invite: https://top.gg/bot/624306191958278164/ 
 
+ 
+<b></b><b></b><b></b>![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield) [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164)
+ [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) 
+
 
 use c!comandos para ver a lista de comandos 
 ou use c!setup para me configurar.
@@ -23,10 +27,7 @@ crie um desses cargos: ADMIN, Admin, Administrador, Administrator, Dev, dev, per
 
 Sugestao? só me add no discord ou use: c!contato mensagem.
 
- 
-<b></b><b></b><b></b>![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield) [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164)
- [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) 
-
+Servidor
 
 Comandos
 
