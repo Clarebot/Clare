@@ -2,9 +2,8 @@
 
  <p align="center">
   <b>LINKS:</b><br>
-  <a href="https://discord.me/clare">SERVIDOR SUPORTE #1</a> |
-  <a href="https://discord.me/betas">SERVIDOR SUPORTE #2</a> |
-  <a href="https://www.facebook.com/H4dxx">FACEBOOK</a>
+  <a href="https://discord.me/clare">SERVIDOR SUPORTE</a> |
+  <a href="https://www.facebook.com/H4dxx">CONTATO</a>
   <br><br>
 </p>
  
