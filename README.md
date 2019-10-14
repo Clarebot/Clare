@@ -1,6 +1,7 @@
+![Clare](https://i.imgur.com/StEGtEh.png)
+
 [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg)](https://top.gg/bot/624306191958278164)
 [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg)](https://top.gg/bot/624306191958278164)
-
 
 # Clare
 Um bot brasileiro com vários comandos, com sistema de level, daily.
