@@ -1,6 +1,6 @@
 ![Clare](https://i.imgur.com/StEGtEh.png)
 
-[![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg)](https://top.gg/bot/624306191958278164)
+                    ![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield)  [![Discord Bots (https://top.gg/api/widget/status/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg)](https://top.gg/bot/624306191958278164)[![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg)](https://top.gg/bot/624306191958278164)
 [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg)](https://top.gg/bot/624306191958278164)
 
 # Clare
@@ -169,6 +169,10 @@ Setup
 Cargos: invite
 
 Canais: sugestoes - welcome - denuncia
+
+
+![Discord Banner 4](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=banner4)
+
 
 Você precisa criar os canais e cargos igual acima. se não tiver igual, o bot não irá reconhecer os canais!
 
