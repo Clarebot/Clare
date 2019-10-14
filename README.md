@@ -1,6 +1,4 @@
-![Clare](https://i.imgur.com/StEGtEh.png)
-
- <p align="center">
+  <p align="center">
   <b>LINKS:</b><br>
   <a href="https://discord.me/clare">SUPORTE</a> |
  <a href="https://top.gg/bot/624306191958278164">TOP.GG</a> |
