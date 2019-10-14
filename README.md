@@ -5,6 +5,8 @@
   <img src="https://top.gg/api/widget/624306191958278164.svg" alt="Clare" />
 </a>
 
+
+invite: https://top.gg/bot/624306191958278164/
 # Clare
 Um bot brasileiro com vários comandos, com sistema de level, daily.
 
