@@ -8,10 +8,6 @@
   <br><br>
 </p>
  
- 
-<b></b><b></b><b></b>![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield) [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164)
- [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) 
-
                    
 
 # Clare
@@ -26,6 +22,11 @@ ou use c!setup para me configurar.
 crie um desses cargos: ADMIN, Admin, Administrador, Administrator, Dev, dev, permission, ServerOwner, serverowner, owner, dono, para vc ter permissão.
 
 Sugestao? só me add no discord ou use: c!contato mensagem.
+
+ 
+<b></b><b></b><b></b>![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield) [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164)
+ [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) 
+
 
 Comandos
 
@@ -74,42 +75,6 @@ c!joke
 c!love
 
 c!membros
-
-c!meme
-
-c!notificar
-
-c!number
-
-c!ping
-
-c!poll
-
-c!randomcolor
-
-c!reverso
-
-c!ricardo
-
-c!ricardo2
-
-c!roleta
-
-c!roll
-
-c!say
-
-c!sorteio
-
-c!serverinfo
-
-c!setup
-
-c!sugestao
-
-c!tapao
-
-c!timer
 
 entre outros comandos.
 
@@ -181,8 +146,6 @@ Cargos: invite
 
 Canais: sugestoes - welcome - denuncia
 
-
-![Discord Banner 4](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=banner4)
 
 
 Você precisa criar os canais e cargos igual acima. se não tiver igual, o bot não irá reconhecer os canais!
