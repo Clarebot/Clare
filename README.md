@@ -1,9 +1,16 @@
 ![Clare](https://i.imgur.com/StEGtEh.png)
-<p align="center">
+
+ <p align="center">
+  <b>LINKS:</b><br>
+  <a href="https://discord.me/clare">SERVIDOR SUPORTE #1</a> |
+  <a href="https://discord.me/betas">SERVIDOR SUPORTE #2</a> |
+  <a href="https://www.facebook.com/H4dxx">FACEBOOK</a>
+  <br><br>
+</p>
+ 
  
 ![Discord Shield](https://discordapp.com/api/guilds/381471490287337502/widget.png?style=shield) [![Discord Bots](https://top.gg/api/widget/owner/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164)
  [![Discord Bots](https://top.gg/api/widget/status/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/upvotes/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) [![Discord Bots](https://top.gg/api/widget/lib/624306191958278164.svg?noavatar=true)](https://top.gg/bot/624306191958278164) 
-</p>
 
                    
 
