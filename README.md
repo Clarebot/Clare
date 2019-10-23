@@ -1,6 +1,6 @@
   <p align="center">
   <b>LINKS:</b><br>
-  <a href="https://discord.me/clare">SUPORTE</a> |
+  <a href="https://discord.me/betas">SUPORTE</a> |
  <a href="https://top.gg/bot/624306191958278164">TOP.GG</a> |
   <a href="https://www.facebook.com/H4dxx">CONTATO</a>
   <br><br>
